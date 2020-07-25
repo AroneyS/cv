@@ -1,0 +1,7 @@
+Id used for finding text block,Contents of text block. Supports markdown formatting.
+loc,text
+intro,"I am an author of 3 high-impact journal articles in biochemistry and molecular biology. I have also constructed a [4000 line analytical dashboard](https://github.com/zooniverse/zoo-stats-api-graphql) with underlying database during an internship with [Zooniverse](https://www.zooniverse.org/) while completing a DPhil on bacterial chemotaxis at the University of Oxford funded by a Clarendon Award.
+
+I am currently searching for a Postdoctoral Researcher position in microbiology, molecular biology and genomics. I am also interested in data analysis and statistical programming."
+public_engagement_aside,I have found the engaging the public with my science has been both rewarding and important for improving public perceptions of science.
+teaching_experience_aside,I greatly enjoy the experience of discovering where a student is and finding a way to guide them to their own epiphany about a topic.
