@@ -120,7 +120,7 @@ CV %<>% print_section('academic_articles')
 
 
 
-Research Experience {data-icon=laptop}
+Research Experience {data-icon=flask}
 --------------------------------------------------------------------------------
 
 ```{r}
