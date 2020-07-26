@@ -81,8 +81,6 @@ CV %>% print_skill_bars()
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-Made with the R package [**pagedown**](https://github.com/rstudio/pagedown). 
-
 The source code is available [on github.com/AroneyS/cv](https://github.com/AroneyS/cv).
 
 Last updated on `r Sys.Date()`.
@@ -111,11 +109,20 @@ CV %<>% print_section('education')
 
 
 
-Publications, Posters, and Talks {data-icon=book}
+Publications {data-icon=book}
 --------------------------------------------------------------------------------
 
 ```{r}
 CV %<>% print_section('academic_articles')
+```
+
+
+
+Major Presentations {data-icon=chart-bar}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('presentations')
 ```
 
 
