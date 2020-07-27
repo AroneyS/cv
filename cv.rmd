@@ -117,6 +117,7 @@ CV %<>% print_section('academic_articles')
 ```
 
 
+<br>
 
 Major Presentations {data-icon=chart-bar}
 --------------------------------------------------------------------------------
@@ -125,6 +126,7 @@ Major Presentations {data-icon=chart-bar}
 CV %<>% print_section('presentations')
 ```
 
+<br>
 
 
 Research Experience {data-icon=flask}
@@ -151,17 +153,27 @@ CV %<>% print_section('teaching_positions')
 
 
 
-Awards {data-icon=award}
+
+Other Activities {data-icon=certificate}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('other_activities')
+```
+
+
+
+
+Awards and Scholarships {data-icon=award}
 --------------------------------------------------------------------------------
 
 ```{r}
 CV %<>% print_section('awards')
 ```
 
-
 <br>
 <br>
-
+<br>
 
 
 Public Engagement {data-icon=globe-asia}
@@ -182,4 +194,17 @@ CV %<>% print_section('public_engagement')
 ```{r}
 CV %<>% print_links()
 ```
+
+
+
+
+Referees {data-icon=phone}
+--------------------------------------------------------------------------------
+
+```{r}
+CV %<>% print_section('referees')
+```
+
+
+
 
