@@ -191,12 +191,6 @@ CV %<>% print_section('public_engagement')
 
 
 
-```{r}
-CV %<>% print_links()
-```
-
-
-
 
 Referees {data-icon=phone}
 --------------------------------------------------------------------------------
@@ -205,6 +199,12 @@ Referees {data-icon=phone}
 CV %<>% print_section('referees')
 ```
 
+
+
+
+```{r}
+CV %<>% print_links()
+```
 
 
 
