@@ -52,6 +52,8 @@ Aside
 # build_network_logo(CV$entries_data)
 ```
 
+![logo](TRI_headshot.jpeg){width=100%}
+
 
 ```{r}
 if(params$pdf_mode){
@@ -82,7 +84,7 @@ CV %>% print_skill_bars()
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-The source code is available [on github.com/AroneyS/cv](https://github.com/AroneyS/cv).
+The source code is available at [github.com/AroneyS/cv](https://github.com/AroneyS/cv).
 
 Last updated on `r Sys.Date()`.
 
